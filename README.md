@@ -34,7 +34,7 @@
   
  #### You can reach us by the following methods: 
  - Join our [Support Server](https://discord.gg/YaB8d2gAHS) on discord 
- - Contact me on discord [discord Server](YOUR SUPPORT SRVR INVITE LINK) 
+ - Contact me on discord [discord Server]([https://discord.gg/YaB8d2gAHS])
   
  ## 5. How can we delete our entire data? 
   
